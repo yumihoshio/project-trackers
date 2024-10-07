@@ -1,0 +1,17 @@
+{
+  "name": "project-trackers",
+  "version": "1.0.0",
+  "description": "A website where I can put in my projects to show off to people, as well as to keep track of them",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "author": "Yumi Hoshio",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

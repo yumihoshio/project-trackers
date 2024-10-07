@@ -1,0 +1,60 @@
+body {
+    background-color: #328ba8;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Title Div */
+.title {
+    font-weight: bold;
+    user-select: none;
+    display: block;
+}
+
+h1 {
+    color: #94e5ff;
+    font-size: 50px;
+    text-shadow: 3px 3px #262626;
+    margin-bottom: 0;
+    z-index: 1000;
+}
+
+.github_ico {
+    width: 50px;
+}
+.main_github {
+    margin-top: -43px;
+    margin-left: 50px;
+}
+/* Title Div */
+
+/* Project Div */
+.project {
+    margin-top: 50px;
+    margin-bottom: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.iXhaMFG {
+    width: 350px;
+}
+/* Project Div */
+
+/* All links */
+.link {
+    text-shadow: 2px 2px 2px black;
+    font-size: 23px;
+    margin-bottom: 0;
+}
+a {
+    color: #94e5ff;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+    text-shadow: 2px 2px 2px white;
+}
+/* All links */
